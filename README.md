@@ -1,4 +1,4 @@
 # hello
-Hello, world!
+Hello, world.
 
 This is hello world repo
